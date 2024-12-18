@@ -1,3 +1,7 @@
 [submodule "kernel/linux-t2-patches"]
-	path = kernel/linux-t2-patches
-	url = https://github.com/t2linux/linux-t2-patches
+path = kernel/linux-t2-patches
+url = https://github.com/t2linux/linux-t2-patches
+
+[submodule "kernel/linux-xanmod-patches"]
+	path = kernel/linux-xanmod-patches
+	url = https://gitlab.com/xanmod/linux-patches.git
